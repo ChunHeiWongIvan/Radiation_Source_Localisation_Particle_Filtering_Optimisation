@@ -33,7 +33,7 @@ The [original project](https://github.com/ChunHeiWongIvan/Reinforcement_Learning
 
 This repository represents a subsequent research iteration carried out during my research internship at HKU. The methodology was revised to remove the learned DQN navigation policy and investigate a more direct optimisation-based source-seeking strategy while retaining particle filtering for probabilistic source estimation.
 
-The repository therefore contains both elements of the earlier implementation and the later optimisation-based experiments.
+The repository therefore contains both elements of the earlier implementation and the later optimisation-based experiments (E.g. The attached thesis was unchanged from the original). 
 
 ## Requirements
 
