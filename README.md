@@ -1,4 +1,4 @@
-# Particle-Filter-Based Radiation Source Localisation
+# Autonomous Radiation Source Localisation and Estimation using direct path optimisation and particle filtering
 
 This repository contains follow-on research into autonomous radiation source localisation and estimation, conducted during a research internship at The University of Hong Kong (HKU).
 
